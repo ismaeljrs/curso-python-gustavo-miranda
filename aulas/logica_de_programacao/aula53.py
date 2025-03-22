@@ -10,3 +10,4 @@ for indice, nome in enumerate(nome):
     print(indice, nome)
 
 print('Acabou!')
+
