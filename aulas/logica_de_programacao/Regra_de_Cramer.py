@@ -1,3 +1,10 @@
+'''
+autor: Ismael jorge Brandão
+prof: Pátricia 
+Objetivo: Fazer um algoritmo que calcule um sistema linear utilizando a regra de cramer. O sistema deve ter n variáveis e n equações (2<=n<=4).
+Entrada: tamanho n do sistema, Matriz dos coeficientes e Matriz de Termos independentes
+Saída: n-upla (solução do Sistema)
+'''
 def determinante(matriz, n):
     if n == 2:
         return matriz[0][0] * matriz[1][1] - matriz[0][1] * matriz[1][0]
