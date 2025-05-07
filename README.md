@@ -1,2 +1,2 @@
 # curso python gustavo miranda
- professor : gustavo miranda
+ professor : Ótavio Miranda
