@@ -1,3 +1,12 @@
+'''
+
+autor......: Ismael jorge Brandão 
+professoara: Pátricia
+mátricula..: 2412130137
+data: 17/05/2025
+
+'''
+
 import numpy as np 
 import os
 
@@ -75,4 +84,3 @@ while True:
         print('A Matriz T não e invertivel ')
         print('----------------------------')
         break
-    
