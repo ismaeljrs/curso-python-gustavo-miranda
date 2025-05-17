@@ -75,37 +75,4 @@ while True:
         print('A Matriz T não e invertivel ')
         print('----------------------------')
         break
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# import numpy as np
-
-# A = np.array([
-#     [2 , 4],
-#     [2 , 3]
-# ])
-
-# vetor = np.array([1,1])
-
-# print(f'vetor Original {vetor}')
-
-# T_v = A @ vetor 
-
-# print(T_v)
-
-
-
-
-
+    
